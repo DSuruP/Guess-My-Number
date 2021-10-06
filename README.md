@@ -5,7 +5,7 @@ A little game in which you have to guess the numbers.
 
 
 ## Documentation
-I haven't added too many filters or too many effects. Just made my first game.
+I haven't added too many filters or too many effects. Just made game.
 [Documentation](https://guessthenumber1-20.netlify.app/)
 
   
